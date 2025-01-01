@@ -4,14 +4,14 @@ import { useState } from "react";
 const flashCards = [
   { id: 1, question: "Mee-jo naam ____ aa-heh.", answer: "My name is ____." },
   { id: 2, question: "Eye kee yoo?", answer: "How are you?" },
-  { id: 3, question: "Mee-keh koh-wo kah-peh-toh.", answer: "I need food." },
+  { id: 3, question: "Mee-keh cow-whoah kah-peh-toh.", answer: "I need food." },
   { id: 4, question: "Mee-keh paah-nee keh-peh-toh.", answer: "I need water." },
   { id: 5, question: "Ah-ow, chai pee-yoo-tah.", answer: "Come, let's have tea." },
   { id: 6, question: "Mee-keh mah-dud kah-peh-tee.", answer: "I need help." },
   { id: 7, question: "Pah kroh kah-ree-ree-yah-yo?", answer: "What are we doing?" },
   { id: 8, question: "Mee-keh ghaar vee-noh eye.", answer: "I want to go home." },
   { id: 9, question: "Ee kee-toh joh eye?", answer: "How much does this cost?" },
-  { id: 10, question: "Mee-keh kroh ker-neh kah-peh?", answer: "What should I do?" }
+  { id: 10, question: "Mee-keh kroh curr-neh cuhh-peh?", answer: "What should I do?" },
 ];
 
 
