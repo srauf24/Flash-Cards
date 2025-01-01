@@ -51,7 +51,7 @@ function App() {
       utterance.voice = indianVoice;
     }
 
-    // Speak the text
+    // Speak the text aloud
     speechSynthesis.speak(utterance);
   };
 
