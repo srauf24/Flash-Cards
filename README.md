@@ -5,7 +5,7 @@ Here’s a well-structured and engaging README for your Memon Vocabulary Flashca
 Memon Vocabulary Flashcards 🗣️🍵
 An interactive app to help you practice and learn Memoni phrases with their English translations.
 
-Live Demo
+Live Demo https://flash-cards-one-iota.vercel.app/
 
 ✨ Features
 Interactive Flashcards:
