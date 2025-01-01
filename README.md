@@ -6,6 +6,7 @@ Memon Vocabulary Flashcards 🗣️🍵
 An interactive app to help you practice and learn Memoni phrases with their English translations.
 
 Live Demo https://flash-cards-one-iota.vercel.app/
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/cdb470d1-cc4c-4244-b3cc-47d04a5b37c5" />
 
 ✨ Features
 Interactive Flashcards:
