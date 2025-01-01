@@ -25,5 +25,14 @@
   color: #f7fafc;
   margin-bottom: 20px;
 }
-
+.FlashCard {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #2d3748;
+}
 
